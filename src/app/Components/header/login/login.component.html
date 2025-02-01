@@ -1,0 +1,11 @@
+<div class="login">
+  <div class="icon" (click)="this.block = ! block">
+    <i class="fa-regular fa-user"></i>
+  </div>
+
+  <form action="" [ngStyle]=" this.block == false ? { 'display': 'none'} : { 'display'  : 'block'} " >
+    <input type="text" placeholder="User ou e-mail">
+    <input type="password" placeholder="Password">
+    <input type="submit">
+  </form>
+</div>

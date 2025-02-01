@@ -1,0 +1,12 @@
+div{
+  flex: 4;
+}
+a{
+  color: #FFF;
+  text-decoration: none;
+}
+
+a i{
+  font-size: 1.8rem;
+  margin-right: 1rem;
+}

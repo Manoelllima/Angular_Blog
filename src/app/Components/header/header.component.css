@@ -1,0 +1,17 @@
+header{
+  border-bottom: .15rem solid rgb(223, 221, 221);
+  padding: .5rem 0;
+  width: 100%;
+}
+
+.center{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  margin: 0 auto;
+  max-width: 1280px;
+  padding: 0 2%;
+
+  width: 100%;
+}

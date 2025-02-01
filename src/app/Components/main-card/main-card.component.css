@@ -1,0 +1,25 @@
+.content{
+  height: 100%;
+  width: 100%;
+}
+
+.content a{
+  color: #FFF;
+  text-decoration: none;
+}
+
+.content .content_img{
+  padding: .5rem 0;
+  width: 100%;
+}
+
+
+.content_img img{
+  min-height: 20rem;
+  width: 100%;
+}
+
+
+.content_img span{
+
+}
