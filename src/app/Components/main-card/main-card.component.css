@@ -5,7 +5,12 @@
 
 .content a{
   color: #FFF;
+  font-size: 2rem;
   text-decoration: none;
+}
+
+.content p{
+  font-size: 1.5rem;
 }
 
 .content .content_img{
@@ -13,13 +18,13 @@
   width: 100%;
 }
 
-
 .content_img img{
   min-height: 20rem;
   width: 100%;
 }
 
-
 .content_img span{
-
+  font-size: 1.3rem;
 }
+
+

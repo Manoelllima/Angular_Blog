@@ -1,0 +1,19 @@
+a{text-decoration: none;border-bottom: .1rem solid #FFF; color: #FFF;  padding: 1rem 0; display: inline-block;}
+
+.content{
+  display: flex;
+}
+
+.content img{
+  margin-right: .5rem;
+  min-height: 8rem;
+  width: 40%;
+}
+
+.content .info{
+  width: 60%;
+}
+
+.content .info p{
+  padding-top: .5rem;
+}

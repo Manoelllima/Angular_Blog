@@ -15,7 +15,6 @@ h1{
 }
 
 .flex{
-  min-height: 50rem;
   display: flex;
   flex-wrap: wrap;
 }
