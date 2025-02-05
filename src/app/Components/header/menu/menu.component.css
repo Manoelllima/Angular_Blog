@@ -5,3 +5,13 @@ nav a{
   padding:0 1.5rem;
   text-decoration: none;
 }
+@media screen and (max-width: 675px){
+    nav{
+      background-color: #FFF;
+      height: 2rem;
+      width: 2rem;
+    }
+    a{
+      display: none;
+    }
+}

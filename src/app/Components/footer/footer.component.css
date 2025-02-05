@@ -1,0 +1,8 @@
+.center{
+  margin: 0 auto;
+  border-top: .1rem solid #FFF ;
+  padding: 2%;
+  max-width: 1280px;
+  text-align: center;
+  width: 100%;
+}
